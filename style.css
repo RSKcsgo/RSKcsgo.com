@@ -81,6 +81,22 @@ body {
     font-size:30px;
     
    }
+
+.title_tab2  {
+  
+  background-image: url("images/.png");
+    background-repeat: no-repeat;
+    height:50px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:20px;
+    
+   }
    
    #best_sites1	{
    	
