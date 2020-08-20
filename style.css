@@ -147,6 +147,19 @@ margin-top:16px;
     
    }
 
+.soon {
+    
+background-image: url("images/best_sites_bg2.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }
+
 
    
        .sites	{
@@ -272,4 +285,32 @@ margin-top:16px;
    	
 .tab {
  margin-bottom: 2.5em
+}
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 0px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 1018px;
+  line-height: 18px;
+  background-color: #0e0d1b;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
 }
