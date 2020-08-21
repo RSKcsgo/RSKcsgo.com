@@ -82,6 +82,150 @@ body {
     
    }
 
+.title_tabblue  {
+  
+  background-image: url("images/title_tabblue.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabblue2  {
+  
+  background-image: url("images/title_tabblue2.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabblue3  {
+  
+  background-image: url("images/title_tabblue3.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabpurple  {
+  
+  background-image: url("images/title_tabpurple.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabgreen  {
+  
+  background-image: url("images/title_tabgreen.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabred  {
+  
+  background-image: url("images/title_tabred.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabpurple2  {
+  
+  background-image: url("images/title_tabpurple2.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabpink  {
+  
+  background-image: url("images/title_tabpink.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
+.title_tabgray  {
+  
+  background-image: url("images/title_tabgray.png");
+    background-repeat: no-repeat;
+    height:65px;
+    width:1023px;
+    margin:0px auto;
+    clear:both;
+    text-align:center;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom:10px;
+    font-size:30px;
+    
+   }
+
 .title_tab2  {
   
   background-image: url("images/.png");
@@ -109,7 +253,91 @@ body {
  	margin-top:16px;
     
    }
-   
+
+   #best_sites_blue {
+    
+    background-image: url("images/new_sites_bgblue.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }   
+
+   #best_sites_blue2 {
+    
+    background-image: url("images/new_sites_bgblue2.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }   
+
+   #best_sites_red {
+    
+    background-image: url("images/new_sites_bgred.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }   
+
+#best_sites_pink {
+    
+    background-image: url("images/bestsitespink.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }   
+
+#best_sites_black {
+    
+    background-image: url("images/best_sites_black.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }    
+
+#best_sites_gray {
+    
+    background-image: url("images/best_sites_gray.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }   
+
+#best_sites_purple {
+    
+    background-image: url("images/new_sites_purple.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }   
+
       #new_sites1	{
    	
    	background-image: url("images/new_sites_bg1.png");
@@ -146,6 +374,98 @@ margin-left:12px;
 margin-top:16px;
     
    }
+
+.best_sites_blue {
+    
+background-image: url("images/new_sites_bgblue.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }
+
+.best_sites_blue2 {
+    
+background-image: url("images/new_sites_bgblue2.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }   
+
+.best_sites_red {
+    
+background-image: url("images/new_sites_bgred.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }
+
+.best_sites_pink {
+    
+background-image: url("images/bestsitespink.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }
+
+.best_sites_gray {
+    
+background-image: url("images/best_sites_gray.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }
+
+.best_sites_black {
+    
+background-image: url("images/best_sites_black.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }   
+
+.best_sites_purple {
+    
+background-image: url("images/new_sites_purple.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }   
+
 
 .soon {
     
@@ -201,6 +521,18 @@ display:block;
 margin-top:16px;
     
    }
+
+.best_sites_first2  {
+    
+background-image: url("images/new_sites_bgblue.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-top:16px;
+    
+   }   
    
           .sites_first	{
    	
@@ -242,8 +574,23 @@ margin-top:16px;
    }
    
    #best_sites1 img {margin: 15px 0 0 10px;}
+   #best_sites_blue img {margin: 15px 0 0 10px;}
+   #best_sites_blue2 img {margin: 15px 0 0 10px;} 
+   #best_sites_red img {margin: 15px 0 0 10px;} 
+   #best_sites_pink img {margin: 15px 0 0 10px;}
+   #best_sites_gray img {margin: 15px 0 0 10px;} 
+   #best_sites_black img {margin: 15px 0 0 10px;}
+   #best_sites_purple img {margin: 15px 0 0 10px;} 
     .best_sites img {margin: 15px 0 0 10px;}
+    .best_sites_pink img {margin: 15px 0 0 10px;}
+    .best_sites_black img {margin: 15px 0 0 10px;}
+    .best_sites_gray img {margin: 15px 0 0 10px;}
+    .best_sites_purple img {margin: 15px 0 0 10px;}
+    .best_sites_blue img {margin: 15px 0 0 10px;}
+    .best_sites_blue2 img {margin: 15px 0 0 10px;}
+    .best_sites_red img {margin: 15px 0 0 10px;}
     .best_sites_first img {margin: 15px 0 0 10px;}
+    .best_sites_first2 img {margin: 15px 0 0 10px;}
      #new_sites1 img {margin: 15px 0 0 10px;}
     .new_sites img {margin: 15px 0 0 10px;}
     .new_sites_first img {margin: 15px 0 0 10px;} 
