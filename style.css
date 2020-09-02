@@ -326,6 +326,18 @@ body {
     
    }   
 
+.best_sites_gray2  {
+    
+background-image: url("images/best_sites_gray.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-top:16px;
+    
+   }
+
 #best_sites_purple {
     
     background-image: url("images/new_sites_purple.png");
@@ -585,6 +597,7 @@ margin-top:16px;
     .best_sites_pink img {margin: 15px 0 0 10px;}
     .best_sites_black img {margin: 15px 0 0 10px;}
     .best_sites_gray img {margin: 15px 0 0 10px;}
+    .best_sites_gray2 img {margin: 15px 0 0 10px;}
     .best_sites_purple img {margin: 15px 0 0 10px;}
     .best_sites_blue img {margin: 15px 0 0 10px;}
     .best_sites_blue2 img {margin: 15px 0 0 10px;}
