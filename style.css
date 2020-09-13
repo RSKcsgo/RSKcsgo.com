@@ -114,6 +114,7 @@ body {
     
    }
 
+
 .title_tabblue3  {
   
   background-image: url("images/title_tabblue3.png");
@@ -302,6 +303,19 @@ body {
     
    }   
 
+#best_sites_pink2 {
+    
+    background-image: url("images/bestsitespink.png");
+    background-repeat: no-repeat;
+    height:144px;
+    width:195px;
+    float:left;
+  display:block;
+  margin-top:16px;
+    
+   }   
+
+
 #best_sites_black {
     
     background-image: url("images/best_sites_black.png");
@@ -411,7 +425,20 @@ display:block;
 margin-left:12px;
 margin-top:16px;
     
-   }   
+   }
+
+.best_sites_pink2 {
+    
+background-image: url("images/bestsitespink.png");
+background-repeat: no-repeat;
+height:144px;
+width:195px;
+float:left;
+display:block;
+margin-left:12px;
+margin-top:16px;
+    
+   }      
 
 .best_sites_red {
     
@@ -590,11 +617,13 @@ margin-top:16px;
    #best_sites_blue2 img {margin: 15px 0 0 10px;} 
    #best_sites_red img {margin: 15px 0 0 10px;} 
    #best_sites_pink img {margin: 15px 0 0 10px;}
+   #best_sites_pink2 img {margin: 15px 0 0 10px;}
    #best_sites_gray img {margin: 15px 0 0 10px;} 
    #best_sites_black img {margin: 15px 0 0 10px;}
    #best_sites_purple img {margin: 15px 0 0 10px;} 
     .best_sites img {margin: 15px 0 0 10px;}
     .best_sites_pink img {margin: 15px 0 0 10px;}
+    .best_sites_pink2 img {margin: 15px 0 0 10px;}
     .best_sites_black img {margin: 15px 0 0 10px;}
     .best_sites_gray img {margin: 15px 0 0 10px;}
     .best_sites_gray2 img {margin: 15px 0 0 10px;}
