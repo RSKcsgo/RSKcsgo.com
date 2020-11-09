@@ -45,7 +45,7 @@ body {
 #content {
 	max-width:100%;
 	padding:0 25px 30px 25px;
-	background-color:#0e0d1b;
+	background-color:#0a0a0a;
 	height:auto;
 	float:left;
     background-image: url("images/bottom_line.jpg");
@@ -55,7 +55,7 @@ body {
 }
 
 #info		{
-	background-color:#0e0d1b;
+	background-color:#0a0a0a;
 	height:73px;
 	width:850px;
 	padding:7px 12px;
