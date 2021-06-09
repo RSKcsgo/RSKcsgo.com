@@ -698,7 +698,6 @@ margin-top:16px;
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 1018px;
   line-height: 18px;
   background-color: #0a0a0a;
   color: #fff;
@@ -727,7 +726,7 @@ margin-top:16px;
 .tooltip2 .tooltiptext2 {
   visibility: hidden;
   width: 1018px;
-
+  height: 1018px;
   line-height: 18px;
   background-color: #0a0a0a;
   color: #fff;
