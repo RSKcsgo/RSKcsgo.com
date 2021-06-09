@@ -6,9 +6,9 @@ body {
 	height:100%;
 	margin:0;
     padding: 0;
-    background-image: url("images/bg.jpg");
+    background-image: url("");
     background-repeat: no-repeat;
-    background-color:#111219;
+    background-color:#17252a;
     background-attachment:fixed;
     background-position:center top;
     color:#ffffff;
@@ -698,7 +698,7 @@ margin-top:16px;
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  line-height: 18px;
+  line-height: auto;
   background-color: #0a0a0a;
   color: #fff;
   text-align: center;
@@ -726,7 +726,7 @@ margin-top:16px;
 .tooltip2 .tooltiptext2 {
   visibility: hidden;
   width: 1018px;
-  height: 1018px;
+  height: auto;
   line-height: 18px;
   background-color: #0a0a0a;
   color: #fff;
