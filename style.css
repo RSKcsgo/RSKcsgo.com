@@ -15,11 +15,14 @@ body {
 
 }
 
+
+
 #cointainer {
 	
 	margin:0px auto;
 	height:auto;
 	width:1080px;
+
 }
 
 .baner { margin:30px 0 0 0;}
@@ -743,3 +746,4 @@ margin-top:16px;
 .tooltip2:active .tooltiptext2 {
   visibility: visible;
 }
+
