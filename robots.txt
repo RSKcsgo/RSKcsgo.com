@@ -1,0 +1,16 @@
+Disallow: /contact
+Disallow: /socials
+Disallow: /info
+Disallow: /info/privacypolicy
+Disallow: /info/termsandconditions
+Disallow: /info/disclaimer
+Disallow: /rskimages
+Disallow: /thank_you
+Disallow: /cancelled
+Disallow: /donate
+Disallow: /trashtml
+Disallow: /trashtml
+Disallow: /csgo-roster-changes
+Disallow: /sitemap.xml
+
+Sitemap: https://rskcsgo.com/sitemap.xml
